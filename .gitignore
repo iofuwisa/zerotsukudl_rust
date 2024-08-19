@@ -1,0 +1,9 @@
+/target
+/data
+/pkg
+/www/node_modules
+/www/dist
+/www/src/script/wasm
+*.log
+/graph/*
+*.csv
